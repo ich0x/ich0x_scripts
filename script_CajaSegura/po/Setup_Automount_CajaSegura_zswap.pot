@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026 Setup_Automount_CajaSegura_zswap
+# This file is distributed under the same license as the Setup_Automount_CajaSegura_zswap package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Setup_Automount_CajaSegura_zswap 5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-18 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Setup_Automount_CajaSegura_zswap.sh:85
+msgid "CajaSegura Automount Installer"
+msgstr ""
+
+#: Setup_Automount_CajaSegura_zswap.sh:86
+msgid "Modify /etc/fstab? [y/N]: "
+msgstr ""
+
+#: Setup_Automount_CajaSegura_zswap.sh:87
+msgid "Initialize gocryptfs vault? [y/N]: "
+msgstr ""
+
+#: Setup_Automount_CajaSegura_zswap.sh:88
+msgid "Add CajaSegura launchers to panel? [Y/n]: "
+msgstr ""
+
+#: Setup_Automount_CajaSegura_zswap.sh:89
+msgid "Restore %s? [y/N]: "
+msgstr ""
+
+#: Setup_Automount_CajaSegura_zswap.sh:90
+msgid "Done. Reboot to apply"
+msgstr ""
+
+#: Setup_Automount_CajaSegura_zswap.sh:91
+msgid "CajaSegura Opened"
+msgstr ""
+
+#: Setup_Automount_CajaSegura_zswap.sh:92
+msgid "CajaSegura Closed"
+msgstr ""
+
+#: Setup_Automount_CajaSegura_zswap.sh:93
+msgid "CajaSegura Password"
+msgstr ""
+
+#: Setup_Automount_CajaSegura_zswap.sh:94
+msgid "Open CajaSegura"
+msgstr ""
+
+#: Setup_Automount_CajaSegura_zswap.sh:95
+msgid "Close CajaSegura"
+msgstr ""
+
+#: Setup_Automount_CajaSegura_zswap.sh:96
+msgid "Enable zswap? [Y/n]: "
+msgstr ""
+
+# aguante godoy cruz
