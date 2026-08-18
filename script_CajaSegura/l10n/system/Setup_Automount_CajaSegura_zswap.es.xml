@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- TRANSLATION: XML file for Setup_Automount_CajaSegura_zswap -->
+    <string name="CajaSegura Automount Installer" value="🔒 Instalador Automontaje CajaSegura + zswap"/>
+    <string name="Modify /etc/fstab? [y/N]: " value="¿Modificar /etc/fstab? [s/N]: "/>
+    <string name="Initialize gocryptfs vault? [y/N]: " value="¿Inicializar bóveda gocryptfs? [s/N]: "/>
+    <string name="Add CajaSegura launchers to panel? [Y/n]: " value="¿Añadir accesos de CajaSegura al panel? [S/n]: "/>
+    <string name="Restore %s? [y/N]: " value="¿Restaurar %s? [s/N]: "/>
+    <string name="Done. Reboot to apply" value="Listo. Reinicia para aplicar"/>
+    <string name="CajaSegura Opened" value="🔓 CajaSegura Abierta"/>
+    <string name="CajaSegura Closed" value="🔒 CajaSegura Cerrada"/>
+    <string name="CajaSegura Password" value="Contraseña de CajaSegura"/>
+    <string name="Open CajaSegura" value="🔓 Abrir CajaSegura"/>
+    <string name="Close CajaSegura" value="🔒 Cerrar CajaSegura"/>
+    <string name="Enable zswap? [Y/n]: " value="¿Activar zswap? [S/n]: "/>
+</resources>
+<!-- aguante godoy cruz -->
