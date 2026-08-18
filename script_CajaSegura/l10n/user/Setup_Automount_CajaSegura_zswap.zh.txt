@@ -1,0 +1,15 @@
+# TRANSLATION FILE FOR Setup_Automount_CajaSegura_zswap
+# Place this file in: ~/Translations/Setup_Automount_CajaSegura_zswap.zh.txt
+
+CajaSegura Automount Installer=🔒 CajaSegura 自动挂载安装程序 + zswap
+Modify /etc/fstab? [y/N]: =修改 /etc/fstab 吗？ [y/N]:
+Initialize gocryptfs vault? [y/N]: =初始化 gocryptfs 保险库吗？ [y/N]:
+Add CajaSegura launchers to panel? [Y/n]: =将 CajaSegura 启动器添加到面板吗？ [Y/n]:
+Restore %s? [y/N]: =恢复 %s 吗？ [y/N]:
+Done. Reboot to apply=完成。重启以应用
+CajaSegura Opened=🔓 CajaSegura 已打开
+CajaSegura Closed=🔒 CajaSegura 已关闭
+CajaSegura Password=CajaSegura 密码
+Open CajaSegura=🔓 打开 CajaSegura
+Close CajaSegura=🔒 关闭 CajaSegura
+Enable zswap? [Y/n]: =启用 zswap 吗？ [Y/n]:
